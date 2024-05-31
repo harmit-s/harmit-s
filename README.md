@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Cradle - 3D Game](https://github.com/harmit-s/Cradle)
 
-- 🌱 I’m currently learning **Ai/ML, TypeScript, React Native**
+- 🌱 I’m currently learning **Ai/ML, Python, TypeScript**
 
 - 💬 Ask me about **MERN stack, react-three-fiber**
 
