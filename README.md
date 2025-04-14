@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Cradle - 3D Game](https://github.com/harmit-s/Cradle)
 
-- 🌱 I’m currently learning **Ai/ML, Python, TypeScript**
+- 🌱 I’m currently learning **Ai/ML**
 
 - 💬 Ask me about **MERN stack, react-three-fiber**
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/harmitsidhu/](https://www.linkedin.com/in/harmitsidhu/)
 
-- ⚡ Fun fact **Usually can make the room laugh**
+- ⚡ Fun fact **I love Chess ♟️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
